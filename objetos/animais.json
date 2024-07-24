@@ -1,0 +1,40 @@
+{
+    "animais": [
+        {
+            "id": 1,
+            "nome": "Leão",
+            "tipo": "Mamífero",
+            "habitat": "Savana"
+        },
+        {
+            "id": 2,
+            "nome": "Pinguim",
+            "tipo": "Ave",
+            "habitat": "Pólo Sul"
+        },
+        {
+            "id": 3,
+            "nome": "Cobra",
+            "tipo": "Réptil",
+            "habitat": "Floresta Tropical"
+        },
+        {
+            "id": 4,
+            "nome": "Tigre",
+            "tipo": "Mamífero",
+            "habitat": "Floresta tropical"
+        },
+        {
+            "id": 5,
+            "nome": "Tubarão branco",
+            "tipo": "Mamífero",
+            "habitat": "Oceâno"
+        },
+        {
+            "id": 6,
+            "nome": "Mico leão dourado",
+            "tipo": "Mamífero",
+            "habitat": "Mata Atlântica"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Camisa masculina",
+            "preco": 45.99
+        },
+        {
+            "id": 2,
+            "nome": "Camisa masculina polo",
+            "preco": 65.99
+        },
+        {
+            "id": 3,
+            "nome": "Moletom unisex",
+            "preco": 145.99
+        },
+        {
+            "id": 4,
+            "nome": "Calça jeans feminina",
+            "preco": 75.99
+        },
+        {
+            "id": 5,
+            "nome": "Calça jeans masculina",
+            "preco": 85.99
+        },
+        {
+            "id": 6,
+            "nome": "top feminino",
+            "preco": 25.99
+        },
+        {
+            "id": 7,
+            "nome": "Bolsa estampada",
+            "preco": 99.99
+        },
+        {
+            "id": 8,
+            "nome": "Short jeans feminino",
+            "preco": 59.99
+        },
+        {
+            "id": 9,
+            "nome": "Regata masculina",
+            "preco": 29.99
+        },
+        {
+            "id": 10,
+            "nome": "Sapato",
+            "preco": 119.99
+        }
+
+    ],
+    "usuarios": [
+        {
+            "id": "101",
+            "nome": "João Marcelo",
+            "email": "joao.marcelo@ex.com"
+        },
+        {
+            "id": "102",
+            "nome": "Maria Cecilia",
+            "email": "maria.cecilia@ex.com"
+        },
+        {
+            "id": "103",
+            "nome": "Wagner José",
+            "email": "wagner.jose@ex.com"
+        },
+        {
+            "id": "104",
+            "nome": "Roberto Souza",
+            "email": "roberto.souza@ex.com"
+        },
+        {
+            "id": "105",
+            "nome": "João Victor",
+            "email": "joao.victor@ex.com"
+        },
+        {
+            "id": "106",
+            "nome": "Maria Clara",
+            "email": "maria.clara@ex.com"
+        },
+        {
+            "id": "107",
+            "nome": "Rodolfo Aguiar",
+            "email": "rodolfo.aguiar@ex.com"
+        }
+    ]
+}
